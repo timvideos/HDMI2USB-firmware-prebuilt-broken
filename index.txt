@@ -11,6 +11,8 @@ bd508bf28f450218306f50d9dcc33bb4f36f4631231287c09ec1903939634336  ./arty/base/pi
 644b821ea2fea01b40063574b4dc75cf3b6dad564d34177a32628d000b1c6cbe  ./arty/net/lm32/unstable.sha256sum
 26314d5bed196a98e5b35d5c7b8b3f9693efd56e26e3a93b11ce1e1ad79d223c  ./arty/net/or1k/channels.txt
 be9dbb1d55bec6b466f98b8a8c16dc837a7f12d53d231ebc8f02aa7cd4de0278  ./arty/net/or1k/unstable.sha256sum
+3eef42e825db798f3ae232b816c9fdc2b3c5860edd1cc07ab8c223f4ac235b4a  ./arty/net/picorv32/channels.txt
+598536dd350c7b75d64d40fc725136e8d9223b235955ccb8982643c26455f611  ./arty/net/picorv32/unstable.sha256sum
 3e92c685924ee5efebe703b857fd211fc387f1a4c77a78a07e40510072a4ed6f  ./atlys/base/lm32/channels.txt
 3d3e8957d87161a060af6bf9a54c6a26883f07b6bacf8e041788b8c580a3e16f  ./atlys/base/lm32/unstable.sha256sum
 942ff95882d7602f62d915e2096c3025334d5f40c01ca9906b59e6d4d66f8041  ./atlys/base/or1k/channels.txt
