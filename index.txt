@@ -3,6 +3,8 @@
 bd1d72a2dff87bda36eda6440876a98bac392892fde6a5ec8a863d1f11b41f0f  ./arty/base/lm32/unstable.sha256sum
 016e18ddd0bd4f8c6e1bfa1a0b2e24abf5413083934b4ddab4b0c4dfd28cfdc0  ./arty/base/or1k/channels.txt
 d4b41227e6db46d830f81a96f9f69a2ae6588136dd579d004919f98d1a1c1a22  ./arty/base/or1k/unstable.sha256sum
+bd508bf28f450218306f50d9dcc33bb4f36f4631231287c09ec1903939634336  ./arty/base/picorv32/channels.txt
+22aeb0c14475b362ef7534fa8942b482fefed52f22c85c7b3814be5b9d464f5e  ./arty/base/picorv32/unstable.sha256sum
 57682c548b561bdac5ffe09f540dcd7be1d3d4ff455f8516ec756286ee2e9222  ./arty/base/vexriscv/channels.txt
 2dc39e6394847e222a8abeb28a736c4a72cab2208f3c68c52e126285204d9c87  ./arty/base/vexriscv/unstable.sha256sum
 818558e10ed7985dcd0a322f8d12c6e52846bd891b85226a81dec1128a02aa62  ./arty/net/lm32/channels.txt
