@@ -19,6 +19,8 @@ a6299495dfc061869562864c5c6ab0f51b14dca36a12f323139249f47a8e6220  ./galatea/base
 98ab5ed28429b1573c4dde28ff6e0223b8310570306fa92030f370667f70a697  ./ice40_hx8k_b_evn/base/lm32.minimal/unstable.sha256sum
 f150c3a6c23ee3b0224985fe280416f44aff703c57e703c02701eeeedf0f3368  ./ice40_up5k_b_evn/base/lm32.lite/channels.txt
 30c480be24e13639475349dc8bc2608dd587d00ec99295f0cec2ee4bfc7511eb  ./ice40_up5k_b_evn/base/lm32.lite/unstable.sha256sum
+e42bca3b1905e0b88415f888d56a606a31c5a23e7325b57380ac61555bb08afd  ./ice40_up5k_b_evn/base/lm32.minimal/channels.txt
+4b0ce440565ab4fb6fc9c8df6f387e136cac02791dbb9aa9c11db773238afdee  ./ice40_up5k_b_evn/base/lm32.minimal/unstable.sha256sum
 8be5aee4a90d145106d200a16afd9b54eac9e65f8c2d8284792938bc7091af01  ./icebreaker/base/lm32.lite/channels.txt
 74ffc3754507a5b0ece6103ce162573e9c30ff01292a7145a5d5a1a5f11da2cf  ./icebreaker/base/lm32.lite/unstable.sha256sum
 ac22745ba77f4657757281311e24e1b87849c1b36d81d95d2484f7d83ff7a55b  ./mimas_a7/base/lm32/channels.txt
