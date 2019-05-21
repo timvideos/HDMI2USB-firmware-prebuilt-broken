@@ -59,6 +59,8 @@ a23fa42c47bbb012edfec09c496d4262f9c933c4f3b76c8a7ee3e00ff023c8a2  ./opsis/base/l
 0238172afcda02032f2fe7922e26aae9bd16a6b774059f827803ad735608279c  ./opsis/base/or1k/unstable.sha256sum
 598a61ad37fffb0b260e6992dccef78a915d647700db22f6fdd058c0dfe49e43  ./opsis/net/lm32/channels.txt
 c97613d4e771f3522353f2b1c326ab52cedd8e4d2a5fdc892d86a89e77a29e1f  ./opsis/net/lm32/unstable.sha256sum
+ea9b86f28fb53d828a58fb64b8476c518281bb991ebc40a1b4eca7b5f2ea931b  ./opsis/net/or1k/channels.txt
+626b34f5d04fa340517cd3a89751f5bd6eacf5a8569d9576de4098e82caabd4d  ./opsis/net/or1k/unstable.sha256sum
 452121fdc5111828fd0863de36da921bfb13b3a3278809e9e36c79521ead1e4b  ./pipistrello/base/lm32/channels.txt
 adc027ae414f16ecdfbf945b1afc2829d3d24accabf248262312b995c0f216b7  ./pipistrello/base/lm32/unstable.sha256sum
 8a28894d6694df7c427f43976cf56002d88572c86415ccb83bb0ec9331062e80  ./revs.txt
