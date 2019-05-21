@@ -50,5 +50,7 @@ adc027ae414f16ecdfbf945b1afc2829d3d24accabf248262312b995c0f216b7  ./pipistrello/
 8a28894d6694df7c427f43976cf56002d88572c86415ccb83bb0ec9331062e80  ./revs.txt
 4a997da227c34a7dd41963b66297e98d661de87bbbefa8d17f79541f096a8c44  ./saturn/base/lm32/channels.txt
 e7d330ad7a8f8fa20f6680dc9332bb60be185bec67aa4e02f4b5b35629b2d5a5  ./saturn/base/lm32/unstable.sha256sum
+773a08c04d53322edbb95df48a5d6b30d004e9018ed5bd153777aaed16026acd  ./tinyfpga_bx/base/lm32.minimal/channels.txt
+fdf8c3ab5eaf706f524aeb918f5f89715b0eb41cde6b0b67471d4dfa05ec8213  ./tinyfpga_bx/base/lm32.minimal/unstable.sha256sum
 1b6facfff5cfe782774d85a4cb6101cb1fddb576dd29772bf35fe6021d47399b  ./waxwing/base/lm32/channels.txt
 75fd441ce19d6adc7f5ed8c3a0242234cd29c07bbe50564aa4f673133b76ad72  ./waxwing/base/lm32/unstable.sha256sum
