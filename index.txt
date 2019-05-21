@@ -39,6 +39,8 @@ ac22745ba77f4657757281311e24e1b87849c1b36d81d95d2484f7d83ff7a55b  ./mimas_a7/bas
 23929cb4932251fcf8e04eccf193c9e459c39305a234d6cf2c3297d1be5cd0cb  ./mimas_a7/base/or1k/unstable.sha256sum
 60dc32dc193abfce972b35da3b8a747b5903d5074b776d597a9b4a723810ec02  ./mimas_a7/net/lm32/channels.txt
 76cad2c9fe3b19166975b1e1c368aa1ecddba97c64bc74588c1efe3d721fe6bf  ./mimas_a7/net/lm32/unstable.sha256sum
+aae9d4ca633ede3b0f96edf3d4c52ed9d583034dbb9b937fab507aa6d960f1fa  ./mimas_a7/net/or1k/channels.txt
+5631e9ffd57272ada634a6bc9b7e9641ed7e3f13c8780d75e886a6a5191e1eab  ./mimas_a7/net/or1k/unstable.sha256sum
 175515f2d68f1f4dceb325f92a3cf1c46789a8dfb4fff95449dd695922cab7d8  ./mimasv2/base/lm32/channels.txt
 08e367001b27bf71bbd2ea4df4c69c3d8f3138dae4187ff4925a50d74251db9e  ./mimasv2/base/lm32/unstable.sha256sum
 fac5eb6b3d3af492a7b70027c67de4d9ae1b306edc61464030912319d6e9ea11  ./minispartan6/base/lm32/channels.txt
