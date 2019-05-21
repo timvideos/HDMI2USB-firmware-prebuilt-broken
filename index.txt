@@ -87,6 +87,8 @@ f1122114219525232eebf1a1dbbd573d781c5384ba52da89f52c0888163db426  ./netv2/base/l
 36ffbf561161733a717d00231a4a80bd6c77018fdd327c48debf26f5aadfc24b  ./nexys_video/base/lm32/unstable.sha256sum
 b13e40515ad05f9bdb9cbe780e2507825ef30fdd84cf519b820fea89025f2f2b  ./nexys_video/net/lm32/channels.txt
 72110c8d27513163175e725952249771fe9f2d16212de6cba3602a47c1c464ee  ./nexys_video/net/lm32/unstable.sha256sum
+4f84c15d3b8b1042a98b559dbf19b57f9b95fb5fcac92bb4514328d61921f71e  ./nexys_video/net/or1k.linux/channels.txt
+d5032e59f6b4544502bcc7903ea9d54aa4664c4dbfc8845cb3f462ae6cd586c3  ./nexys_video/net/or1k.linux/unstable.sha256sum
 a23fa42c47bbb012edfec09c496d4262f9c933c4f3b76c8a7ee3e00ff023c8a2  ./opsis/base/lm32/channels.txt
 7faf31ef3f4d33757a9d6d734996927bc5686db4f2b1a012f516a5ee6591028d  ./opsis/base/lm32/unstable.sha256sum
 8f4b74055c24cc85989215975604a5ec8700f98ba27a143dd8062358d5dbc6d5  ./opsis/base/or1k/channels.txt
