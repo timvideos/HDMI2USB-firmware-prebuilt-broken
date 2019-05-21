@@ -31,6 +31,8 @@ c71d2f22b5566bb906b424cc103646f764587fb58c916b48fd19c871bc1dc205  ./arty/net/pic
 f91bebe081f7a64aaf02dac599eef454b8e19571a1440e2f8a4470946267f994  ./atlys/net/or1k.linux/unstable.sha256sum
 3fb8006dae19f0ec225201de2d53d23d4e22ab4f0f1be47191ad7a4a2d8a89b5  ./atlys/net/or1k/channels.txt
 8441bf1024b05ba7fd6d87873ba1d1b6c82d48eaee57ba012469c9b7dcf3bc24  ./atlys/net/or1k/unstable.sha256sum
+22de2d6e419c97e688cc5cd33ac4de066719eaa897b41c8a17d948f762452e78  ./atlys/video/lm32/channels.txt
+24adc12227a78573bcd64dc5b642bcc03853b14ef4087da4e09442d1d93feed4  ./atlys/video/lm32/unstable.sha256sum
 ff9e4599a6dfe1b90719334408e44addcf2d67148a7c22d1b82f43c7981250a5  ./basys3/base/lm32/channels.txt
 32dac1cb4711702105e61016651c021755e7799be23432dd587652aa3a2f9cf6  ./basys3/base/lm32/unstable.sha256sum
 251ad6ed680aebaf56ed511924118bd08a0376a40da8c5391d90922be6a996fa  ./cmod_a7/base/lm32/channels.txt
