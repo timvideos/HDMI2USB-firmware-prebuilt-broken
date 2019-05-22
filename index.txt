@@ -15,6 +15,8 @@ bd508bf28f450218306f50d9dcc33bb4f36f4631231287c09ec1903939634336  ./arty/base/pi
 644b821ea2fea01b40063574b4dc75cf3b6dad564d34177a32628d000b1c6cbe  ./arty/net/lm32/unstable.sha256sum
 36db9b1c0f5b687656f2d07fbb3f404d835c5338081ef610961ab4bb5f4fb085  ./arty/net/minerva/channels.txt
 d3023300d7be7b46e517a5173406495c3458b6634257a1c8bf0817907c29f5ca  ./arty/net/minerva/unstable.sha256sum
+f0d8a5d657af2737afd2dce13c8a1033873157cfc34ade03a018ac8686210b96  ./arty/net/or1k.linux/channels.txt
+72a019242d62f77af62ae02d08b7c2d301e9311947e0162e8221c77e35e4640d  ./arty/net/or1k.linux/unstable.sha256sum
 26314d5bed196a98e5b35d5c7b8b3f9693efd56e26e3a93b11ce1e1ad79d223c  ./arty/net/or1k/channels.txt
 be9dbb1d55bec6b466f98b8a8c16dc837a7f12d53d231ebc8f02aa7cd4de0278  ./arty/net/or1k/unstable.sha256sum
 6bda34dc86970ca8916106f4dcf56c896742168f2c81d515b3a328257a06d9d4  ./arty/net/picorv32.minimal/channels.txt
