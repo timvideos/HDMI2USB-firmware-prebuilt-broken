@@ -107,8 +107,8 @@ f1ffff442c6bc24f56b95945943674102adff31c3b317a1b4536b01eaab3a860  ./opsis/net/or
 5cebc48465b4ce1904b3857792434f344d596a41c770252f666154085b4f4d15  ./opsis/net/or1k.linux/unstable.sha256sum
 ea9b86f28fb53d828a58fb64b8476c518281bb991ebc40a1b4eca7b5f2ea931b  ./opsis/net/or1k/channels.txt
 626b34f5d04fa340517cd3a89751f5bd6eacf5a8569d9576de4098e82caabd4d  ./opsis/net/or1k/unstable.sha256sum
-3615ee3a30db6ae78ef88849eaf09a99f89b4b6173d985c23bc58897776ec574  ./opsis/net/picorv32/channels.txt
-a8c93f762a60eabb17febc7ef9d37d93647188bed0288bcbd9edcffc95325c9e  ./opsis/net/picorv32/unstable.sha256sum
+86af709656964a4824ad8a6f1b8029e6645d5fa65e646603a50f420f18e28969  ./opsis/net/picorv32/channels.txt
+86961a66687a687cade2a825bf960f464f184ea224513c60f1c9d4a576c5e4eb  ./opsis/net/picorv32/unstable.sha256sum
 331f7ad8a43524fc4bca421914b0e827c8b17e64deae4c17c9182c8f01873da4  ./opsis/net/vexriscv/channels.txt
 cbd0c81e2b8ad711bdf0a7ecec2d60ccce663fb31bfe1f953c54ed2c34bab3c6  ./opsis/net/vexriscv/unstable.sha256sum
 f40ecb3461ff47a95dbe7e50ad747d9a313ad04d51bd793f84358a72a5ce1a8c  ./opsis/video/lm32/channels.txt
