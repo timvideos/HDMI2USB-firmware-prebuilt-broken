@@ -126,5 +126,7 @@ bbcd0823156f14ba92728ed975734bd95af5acb0d56d19bfd1fe13061f5093e9  ./tinyfpga_bx/
 fdf8c3ab5eaf706f524aeb918f5f89715b0eb41cde6b0b67471d4dfa05ec8213  ./tinyfpga_bx/base/lm32.minimal/unstable.sha256sum
 1ed1e9c779c6f837058609383d45c1d601045f49b210fcc4000b463aec6e5405  ./tinyfpga_bx/base/picorv32/channels.txt
 85e69cd2c35c7b44de9883b58d76a284bb625a9ac973b17d7109d875b9943648  ./tinyfpga_bx/base/picorv32/unstable.sha256sum
+d2f792ced55957d2582a74fa2b7edb9b7a73fa2f2a9cde83169097eaf7894cd3  ./upduino_v1/base/lm32.lite/channels.txt
+e531553d0dca78d68ea740a822c3a4ac8dae432778a4bda96476149805491ed3  ./upduino_v1/base/lm32.lite/unstable.sha256sum
 e912b0e1a289613b30e0c571b2ed964b18675fd6143811cd81904a885662c1b6  ./waxwing/base/lm32/channels.txt
 fc22a5f640f97f11184837348dd43e855abc5fbe5679f1c3450775feb36a01b0  ./waxwing/base/lm32/unstable.sha256sum
