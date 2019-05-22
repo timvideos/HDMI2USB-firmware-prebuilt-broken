@@ -27,8 +27,8 @@ ab199955f9828bc2633f3f701d697617f46bda50e264c592e0f6fbb14f960cf0  ./arty/net/pic
 672eea5e23c82549b869d5de20cd2a7a5266bf77b46f0f9de7597322941b7c58  ./atlys/base/lm32/unstable.sha256sum
 3a8910744a060c966aba570bcff55983c1e9f4a320799a642140dabcc6c956b0  ./atlys/base/or1k/channels.txt
 1d95162d97a4c0fee2cdc1ebe401aa69b3b729ef1581e898c97390d493567ccd  ./atlys/base/or1k/unstable.sha256sum
-18949423c9bef4fadf9f8e87a8b9fa34c0d1464b14e925ea9ad7f3f9b189827c  ./atlys/hdmi2usb/lm32/channels.txt
-7574bc99659bbc67aa3b563f276d53bb8bbd84791b759af008532f5fb0174785  ./atlys/hdmi2usb/lm32/unstable.sha256sum
+0b87381911a477b4782ce2f7c866bd268627d7a38813724f2eda2b0f2269ef0c  ./atlys/hdmi2usb/lm32/channels.txt
+9679fa783d7d35b9ef9da05a541df93afd999aa7ae82dbaff238bec29070cf75  ./atlys/hdmi2usb/lm32/unstable.sha256sum
 5851ac4bc1e1ab069017476165da5a487a6628e3dc220a56066f735bad2d4519  ./atlys/net/lm32/channels.txt
 5376ed98af431f353348a74e7d5f9fabbd96c5bc25e6c629fd22f8013597aa2d  ./atlys/net/lm32/unstable.sha256sum
 722851a795f3509b973920bdf225930a7734cd2d1a2786128930c22212661d3e  ./atlys/net/or1k.linux/channels.txt
