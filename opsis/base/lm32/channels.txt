@@ -1,1 +1,1 @@
-unstable v0.0.4-462-g005f746 https://github.com/timvideos/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-462-g005f746/opsis/base/lm32/
+unstable v0.0.4-476-g9d94144 https://github.com/timvideos/HDMI2USB-firmware-prebuilt/blob/master/archive/master/v0.0.4-476-g9d94144/opsis/base/lm32/
