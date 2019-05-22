@@ -17,8 +17,8 @@ bd508bf28f450218306f50d9dcc33bb4f36f4631231287c09ec1903939634336  ./arty/base/pi
 d3023300d7be7b46e517a5173406495c3458b6634257a1c8bf0817907c29f5ca  ./arty/net/minerva/unstable.sha256sum
 26314d5bed196a98e5b35d5c7b8b3f9693efd56e26e3a93b11ce1e1ad79d223c  ./arty/net/or1k/channels.txt
 be9dbb1d55bec6b466f98b8a8c16dc837a7f12d53d231ebc8f02aa7cd4de0278  ./arty/net/or1k/unstable.sha256sum
-19ee7cacbaefb6c11fb3acb03b5407d619957adaebf2c5f1c18600dee7fe62cf  ./arty/net/picorv32.minimal/channels.txt
-c71d2f22b5566bb906b424cc103646f764587fb58c916b48fd19c871bc1dc205  ./arty/net/picorv32.minimal/unstable.sha256sum
+6bda34dc86970ca8916106f4dcf56c896742168f2c81d515b3a328257a06d9d4  ./arty/net/picorv32.minimal/channels.txt
+ab199955f9828bc2633f3f701d697617f46bda50e264c592e0f6fbb14f960cf0  ./arty/net/picorv32.minimal/unstable.sha256sum
 3eef42e825db798f3ae232b816c9fdc2b3c5860edd1cc07ab8c223f4ac235b4a  ./arty/net/picorv32/channels.txt
 598536dd350c7b75d64d40fc725136e8d9223b235955ccb8982643c26455f611  ./arty/net/picorv32/unstable.sha256sum
 2d85df58e6a3d644e4ace7b3aa44544a3b1960ab620dde558329e775e5122900  ./atlys/base/lm32/channels.txt
